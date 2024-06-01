@@ -1,0 +1,124 @@
+header{
+    background-color: white;
+    justify-content: flex-end;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.header1{
+    background-color: #5daa5c;
+    text-align: center;
+    display: flex;
+    justify-content: flex-end;
+    padding: .625rem;
+}
+
+.header1 h4{
+    margin: 0 1.25rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-right: .3125rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+}
+
+.center-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem 0;
+    background-color: white;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5daa5c;
+    
+    }
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    margin-right: 1.25rem;
+    
+}
+
+ul li{
+    display: inline-block;
+}
+
+main div img{
+    justify-content: center;
+    align-items: center;
+}
+
+.cajaFotoscuerpo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.fotosCuerpo{
+    margin: 5% 1%;
+}
+
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5daa5c;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    }
+
+
+
+
+
+.footerCajitas{
+    width: 18.75rem;
+    text-align: left;
+    justify-content: center;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerCito{
+    width: 18.75rem;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerDerecha{
+    width: 18.75rem;
+    margin-top: 1.2%;
+    text-align: center;
+    justify-content: center;
+    margin-right: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+footer{
+    background-color: #5daa5c;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .625rem;
+    color: white;
+}
+
+
